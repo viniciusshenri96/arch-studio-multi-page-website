@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/home/vinicius/projects/arch-studio-multi-page-website",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}

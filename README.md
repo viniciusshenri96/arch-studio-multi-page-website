@@ -1,4 +1,4 @@
-<h1 align="center">Arch Studio multi-page website  Completed</h1>
+<h1 align="center">Arch Studio multi-page website</h1>
 
 <div align="left">
 
