@@ -1,0 +1,22 @@
+.font-xl {
+    font: 700 15.625rem / 0.8  "League Spartan", sans-serif;
+    letter-spacing: -5px;
+}
+
+.font-l {
+    font: 700 6rem / 0.83  "League Spartan", sans-serif;
+    letter-spacing: -2px;
+}
+
+.font-m {
+    font: 700 4.5rem / 0.88  "League Spartan", sans-serif;
+    letter-spacing: -2px;
+}
+
+.font-s {
+    font: 700 1.125rem / 0.75  "League Spartan", sans-serif;
+}
+
+.font-button {
+    font: 700 1.125rem / 1.38  "League Spartan", sans-serif;
+}
